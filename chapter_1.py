@@ -1,3 +1,6 @@
+# CHAPTER 1: IPython: Beyond Normal Python
+# ========================================
+
 # Accessing Documentation with ?
 help(len)
 
